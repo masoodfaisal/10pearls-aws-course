@@ -1,4 +1,4 @@
-This is the repository supporting the code for the [10 Pearls Iniversity AWS Course](https://10pearlsuniversity.org). 
+This is the repository supporting the code for the [10 Pearls University AWS Course](https://10pearlsuniversity.org). 
 The course provides introduction to the following topics:
 - What is cloud computing
 - Building blocks of AWS
