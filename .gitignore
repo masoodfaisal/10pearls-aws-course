@@ -8,5 +8,6 @@ __pycache__
 # CDK asset staging directory
 .cdk.staging
 cdk.out
-README.md
+serverless-example/README.md
+containers-example/README.md
 *.pptx
